@@ -6,7 +6,7 @@ Este bot foi feito para ser usado em um sistema especifico, chamado Holmes. Este
 O bot recebe o link da página que contém os arquivos (erros), realiza o calculo da quantidade de páginas, e inicia a exclusão deles via web scraping. Como a parte de exclusão é oculta, o bot utiliza reconhecimento de imagens para clicar nos botões corretos
 
 
-#************* English *************
+# ************* English *************
 
 Bot for deleting filmes (errors) from Holmes, using web scraping (Playwright)
 
